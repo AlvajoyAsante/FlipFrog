@@ -23,4 +23,4 @@
 
 ------------
 
- Copyright &copy; 2018 - 2022, ***Alvajoy123***
+ Copyright &copy; 2018 - 2022, ***Alvajoy Asante***
